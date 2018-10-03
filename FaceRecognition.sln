@@ -1,0 +1,54 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognition", "FaceRecognition\FaceRecognition.csproj", "{18DCFEDC-861A-4191-9290-5598A9C763EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognition.Gtk", "FaceRecognition.Gtk\FaceRecognition.Gtk.csproj", "{4267B73A-0F31-4EC0-A47F-66C5170F2CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognition.WinForms", "FaceRecognition.WinForms\FaceRecognition.WinForms.csproj", "{4F944F03-F4A8-4305-ACB6-CCC785062BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognition.Mac", "FaceRecognition.Mac\FaceRecognition.Mac.csproj", "{BA9C0A1E-8CC9-4E04-AA1C-396CE36102D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognition.Wpf", "FaceRecognition.Wpf\FaceRecognition.Wpf.csproj", "{CDCDCFF1-7478-41B2-B59E-2353B21FE71A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognition.XamMac", "FaceRecognition.XamMac\FaceRecognition.XamMac.csproj", "{7538DA43-779D-4AC3-8C53-DC6484AF960C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DCFEDC-861A-4191-9290-5598A9C763EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DCFEDC-861A-4191-9290-5598A9C763EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DCFEDC-861A-4191-9290-5598A9C763EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DCFEDC-861A-4191-9290-5598A9C763EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4267B73A-0F31-4EC0-A47F-66C5170F2CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4267B73A-0F31-4EC0-A47F-66C5170F2CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4267B73A-0F31-4EC0-A47F-66C5170F2CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4267B73A-0F31-4EC0-A47F-66C5170F2CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F944F03-F4A8-4305-ACB6-CCC785062BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F944F03-F4A8-4305-ACB6-CCC785062BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F944F03-F4A8-4305-ACB6-CCC785062BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F944F03-F4A8-4305-ACB6-CCC785062BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9C0A1E-8CC9-4E04-AA1C-396CE36102D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9C0A1E-8CC9-4E04-AA1C-396CE36102D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9C0A1E-8CC9-4E04-AA1C-396CE36102D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9C0A1E-8CC9-4E04-AA1C-396CE36102D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCDCFF1-7478-41B2-B59E-2353B21FE71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCDCFF1-7478-41B2-B59E-2353B21FE71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCDCFF1-7478-41B2-B59E-2353B21FE71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCDCFF1-7478-41B2-B59E-2353B21FE71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7538DA43-779D-4AC3-8C53-DC6484AF960C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7538DA43-779D-4AC3-8C53-DC6484AF960C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7538DA43-779D-4AC3-8C53-DC6484AF960C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7538DA43-779D-4AC3-8C53-DC6484AF960C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47857121-F23B-4FD1-B3FD-23A0B03BB92D}
+	EndGlobalSection
+EndGlobal
